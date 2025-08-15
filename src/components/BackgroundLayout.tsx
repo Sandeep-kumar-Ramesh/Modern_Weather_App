@@ -64,7 +64,7 @@ const BackgroundLayout: React.FC<BackgroundLayoutProps> = ({ weatherData, childr
 
   return (
     <div 
-      className="min-h-screen w-full bg-fixed bg-cover bg-center bg-no-repeat"
+      className="min-h-screen w-full bg-cover bg-center bg-no-repeat bg-scroll md:bg-fixed transition-all duration-500"
       style={{
         backgroundImage: `url(${backgroundImage})`,
       }}
