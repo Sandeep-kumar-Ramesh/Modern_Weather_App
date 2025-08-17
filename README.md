@@ -2,7 +2,10 @@
 
 A beautiful, responsive weather application built with React, TypeScript, and Tailwind CSS. Get real-time weather information for any location with a modern, intuitive interface.
 
-![Weather App Screenshot](https://via.placeholder.com/800x400/87CEEB/000000?text=Weather+App+Screenshot)
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/05388b1d-1c83-4e34-b54e-5d4370a493eb" />
+
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/994d5669-d214-439f-b3eb-859717eba5c1" />
+
 
 ## ✨ Features
 
@@ -17,7 +20,8 @@ A beautiful, responsive weather application built with React, TypeScript, and Ta
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-weather-app-demo.com)
+[View Live Demo]
+https://sandeepkumarweatherapp.netlify.app/
 
 ## 🛠️ Tech Stack
 
@@ -249,38 +253,13 @@ To use a different weather API:
 2. Modify data transformation in `src/utils/weatherUtils.ts`
 3. Update TypeScript types in `src/types/weather.ts`
 
-## 🚀 Deployment
-
-### **Vercel (Recommended)**
-1. Connect your GitHub repository to Vercel
-2. Vercel will automatically detect the Vite configuration
-3. Deploy with one click
+## 🚀 Deployment . Already deployed in Netlify
 
 ### **Netlify**
 1. Build the project: `npm run build`
 2. Upload the `dist` folder to Netlify
 3. Configure build settings if needed
 
-### **GitHub Pages**
-1. Add `"homepage": "https://yourusername.github.io/repo-name"` to `package.json`
-2. Install gh-pages: `npm install --save-dev gh-pages`
-3. Add deploy script: `"deploy": "gh-pages -d dist"`
-4. Run: `npm run build && npm run deploy`
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Make your changes
-4. Add tests for new functionality
-5. Run tests: `npm test`
-6. Commit your changes: `git commit -m 'Add feature'`
-7. Push to the branch: `git push origin feature-name`
-8. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -294,9 +273,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help:
 
 - Create an issue on GitHub
-- Email: support@your-weather-app.com
-- Documentation: [docs.your-weather-app.com](https://docs.your-weather-app.com)
+- Email: sandeepkumar.ramesh16@gmail.com
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Sandeepkumar Ramesh**
